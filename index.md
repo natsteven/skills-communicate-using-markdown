@@ -11,3 +11,8 @@
 ``` java
 System.out.println("Hello World");
 ```
+- [x] do frickin headers
+- [x] do frickin images
+- [x] do frickin code
+- [x] do tasks
+- [ ] something after
